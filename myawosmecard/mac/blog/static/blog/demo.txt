@@ -1,0 +1,1 @@
+hi i am static text file in the blog app
